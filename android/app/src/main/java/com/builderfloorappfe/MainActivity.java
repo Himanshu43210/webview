@@ -1,4 +1,4 @@
-package com.builderfloorappfe;
+package com.GrestApp;
 
 import android.os.Bundle;
 
@@ -22,7 +22,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "BuilderFloorAppFE";
+    return "GrestApp";
   }
 
   /**

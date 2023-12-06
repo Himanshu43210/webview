@@ -62,7 +62,7 @@ function App(): JSX.Element {
   return (
     <SafeAreaView style={styles.flex1}>
       <WebView
-        source={{uri: 'https://www.builderfloor.com/'}}
+        source={{uri: 'https://grest-fe.vercel.app/'}}
         style={styles.flex1}
       />
     </SafeAreaView>

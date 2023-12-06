@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "BuilderFloorAppFE.app"
-               BlueprintName = "BuilderFloorAppFE"
-               ReferencedContainer = "container:BuilderFloorAppFE.xcodeproj">
+               BuildableName = "GrestApp.app"
+               BlueprintName = "GrestApp"
+               ReferencedContainer = "container:GrestApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "BuilderFloorAppFETests.xctest"
-               BlueprintName = "BuilderFloorAppFETests"
-               ReferencedContainer = "container:BuilderFloorAppFE.xcodeproj">
+               BuildableName = "GrestAppTests.xctest"
+               BlueprintName = "GrestAppTests"
+               ReferencedContainer = "container:GrestApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BuilderFloorAppFE.app"
-            BlueprintName = "BuilderFloorAppFE"
-            ReferencedContainer = "container:BuilderFloorAppFE.xcodeproj">
+            BuildableName = "GrestApp.app"
+            BlueprintName = "GrestApp"
+            ReferencedContainer = "container:GrestApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BuilderFloorAppFE.app"
-            BlueprintName = "BuilderFloorAppFE"
-            ReferencedContainer = "container:BuilderFloorAppFE.xcodeproj">
+            BuildableName = "GrestApp.app"
+            BlueprintName = "GrestApp"
+            ReferencedContainer = "container:GrestApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

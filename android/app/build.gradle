@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.builderfloor"
+    namespace "com.grest"
     defaultConfig {
-        applicationId "com.builderfloorappfe"
+        applicationId "com.GrestApp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
